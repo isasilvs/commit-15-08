@@ -19,7 +19,7 @@ export default function Cotato() {
 
                 <div className={styles.email}>
                     <label className={styles.label}>Email:</label>
-                    <input className={styles.input} type="text" placeholder="Emai" />
+                    <input className={styles.input} type="text" placeholder="" />
                 </div>
 
                 <div className={styles.telefone}>
