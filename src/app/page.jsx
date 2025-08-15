@@ -15,7 +15,7 @@ export default function Home() {
       <div className={styles.corpo}>
 
         <div>
-          <img src="/corpo.png" alt="Imagem" className={styles.imagem}></img>
+          <img src="/corpo.png" alt="Imagm" className={styles.imagem}></img>
         </div>
 
         <div>
