@@ -1,0 +1,33 @@
+.h1{
+    text-align: center;
+}
+
+.header{
+    display: flex; 
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    margin-left: 40px;
+}
+
+.label{
+    font-weight: bold;
+}
+
+.input{
+    border-radius: 5px;
+    padding: 5px;   
+}
+
+
+
+
+.but{
+    padding: 4px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background: black;
+    width: 100px;
+    
+}
